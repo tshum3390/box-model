@@ -33,9 +33,12 @@ h1, h2, h3 {
 
 .card {
   background-color: #FFFFFF;
-  width: 346px;;
+  width: 326px;
   padding: 24px;
   border: 3px solid #1F3864;
+  margin-top: 16px;
+  margin: 24px auto;
+  border-left: 10px solid #CADCFC;
 }
 
 .card h3 {
@@ -45,6 +48,8 @@ h1, h2, h3 {
 .card-date {
   background-color: #CADCFC;
   font-weight: bold;
+  padding: 6px 12px;
+  margin: 0px 0px 12px;
 }
 
 .card-link {
@@ -52,12 +57,17 @@ h1, h2, h3 {
   color: #1F3864;
   font-weight: bold;
   text-decoration: none;
+  padding: 8px 16px 8px;
+  border: 2px solid #1F3864;
+  border-radius: 6px;
 }
 
 .site-footer {
   background-color: #1E2761;
   color: #CADCFC;
   text-align: center;
+  padding: 24px;
+  margin: 48px 0px 0px;
 }
 
 
